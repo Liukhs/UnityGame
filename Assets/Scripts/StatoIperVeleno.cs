@@ -4,7 +4,10 @@ public class StatoIperVeleno : StatoBase
 {
     private int turniPassati = 1;
 
-    public override string nome = "Iperveleno";
+    public StatoIperVeleno()
+    {
+        nome = "Iper Veleno";
+    }
     public override float DannoFineTurno(PokemonData p)
     {
         float danno = Mathf.Max(1, (int)((p.maxHP / 16f) * turniPassati));
@@ -13,7 +16,10 @@ public class StatoIperVeleno : StatoBase
 
         return danno;
     }
-    public override void ApplicaEffettiStatistiche(PokemonData p);
+    public override void ApplicaEffettiStatistiche(PokemonData p)
+    {
+        
+    }
     public override bool PuòAttaccare(PokemonData p)
     {
         return true;
