@@ -14,5 +14,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::MossaData
   nomeMossa: Lanciafiamme
   descrizione: il pokemon spara fiamme dalla bocca
-  potenza: 80
-  pp: 10
+  potenza: 90
+  pp: 15
+  tipo: 9
+  categoria: 1

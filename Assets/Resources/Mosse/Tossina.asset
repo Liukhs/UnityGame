@@ -10,11 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 6dd0d451d08b19944aa8f6e1b0b12d1d, type: 3}
-  m_Name: Foglielama
+  m_Name: Tossina
   m_EditorClassIdentifier: Assembly-CSharp::MossaData
-  nomeMossa: Foglielama
-  descrizione: Lancia delle foglie molto velocemente
-  potenza: 70
+  nomeMossa: Tossina
+  descrizione: tossina
+  potenza: 0
   pp: 10
-  tipo: 11
-  isSpecial: 0
+  tipo: 3
+  categoria: 2
+  statoDaInfliggere: 8
+  probabilitaEffetto: 30

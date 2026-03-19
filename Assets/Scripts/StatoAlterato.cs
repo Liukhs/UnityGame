@@ -1,0 +1,12 @@
+public enum StatoAlterato
+{
+    NESSUNO,
+    BRUCIATURA,
+    PARALISI,
+    SONNO,
+    CONGELAMENTO,
+    CONFUSIONE,
+    INNAMORAMENTO,
+    VELENO,
+    IPERVELENO
+}

@@ -13,10 +13,17 @@ MonoBehaviour:
   m_Name: Charizard
   m_EditorClassIdentifier: Assembly-CSharp::PokemonData
   nome: Charizard
-  maxHP: 150
-  attacco: 50
-  difesa: 30
+  maxHP: 185
+  attacco: 150
+  attSpe: 177
+  difSpe: 151
+  difesa: 143
   modelloPrefab: {fileID: 6253709812105681897, guid: bdc563c0617e9404692f5e0bad8f7617, type: 3}
   mosseDisponibili:
-  - {fileID: 11400000, guid: 944314109fcc8bd48a8f0da2bae4ef33, type: 2}
   - {fileID: 11400000, guid: 43da5a806de7bdf43a4e9e03a8ba17c1, type: 2}
+  - {fileID: 11400000, guid: b947cc4973020554ba9df8ff3d66173e, type: 2}
+  - {fileID: 11400000, guid: bad02a0c8f8441f40a0f8cd7a4f73948, type: 2}
+  - {fileID: 11400000, guid: 244573e631b4b5448b837fca61e35eb1, type: 2}
+  tipoPrimario: 9
+  livello: 50
+  velocita: 167

@@ -13,10 +13,17 @@ MonoBehaviour:
   m_Name: Venusaur
   m_EditorClassIdentifier: Assembly-CSharp::PokemonData
   nome: Venusaur
-  maxHP: 150
-  attacco: 50
-  difesa: 30
+  maxHP: 155
+  attacco: 103
+  attSpe: 167
+  difSpe: 120
+  difesa: 103
   modelloPrefab: {fileID: 5466295318842987287, guid: 7c0dfb1ea1174c94ca954d547bc299d9, type: 3}
   mosseDisponibili:
-  - {fileID: 11400000, guid: 944314109fcc8bd48a8f0da2bae4ef33, type: 2}
-  - {fileID: 11400000, guid: 5a9ed95212c7fa843a4611b3812c69ca, type: 2}
+  - {fileID: 11400000, guid: 3e9818dc570456e48a8d737816aff25e, type: 2}
+  - {fileID: 11400000, guid: fca241e3762bef54692866e1ffb9bc4f, type: 2}
+  - {fileID: 11400000, guid: 765832d77b63b8345b799880d84e6305, type: 2}
+  - {fileID: 11400000, guid: 1a990026e45755245b1c9055b2531fe4, type: 2}
+  tipoPrimario: 11
+  livello: 50
+  velocita: 130

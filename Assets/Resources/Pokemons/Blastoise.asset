@@ -13,10 +13,17 @@ MonoBehaviour:
   m_Name: Blastoise
   m_EditorClassIdentifier: Assembly-CSharp::PokemonData
   nome: Blastoise
-  maxHP: 150
-  attacco: 50
-  difesa: 30
+  maxHP: 186
+  attacco: 148
+  attSpe: 150
+  difSpe: 167
+  difesa: 167
   modelloPrefab: {fileID: 63573276539401681, guid: f7386d8e29fddfb4dbd02db90934719c, type: 3}
   mosseDisponibili:
-  - {fileID: 11400000, guid: 944314109fcc8bd48a8f0da2bae4ef33, type: 2}
-  - {fileID: 11400000, guid: 5a9ed95212c7fa843a4611b3812c69ca, type: 2}
+  - {fileID: 11400000, guid: 314c672320398da48ac7aee75925d519, type: 2}
+  - {fileID: 11400000, guid: 1c85a2b01ceb7e5418dc8a3bc90ed3c3, type: 2}
+  - {fileID: 11400000, guid: fb1d3b47abb096943ba478d22500a3bf, type: 2}
+  - {fileID: 11400000, guid: d37117ada4daa5644a621712df24c11e, type: 2}
+  tipoPrimario: 10
+  livello: 50
+  velocita: 145
