@@ -18,7 +18,7 @@ MonoBehaviour:
   attSpe: 167
   difSpe: 120
   difesa: 103
-  modelloPrefab: {fileID: 5466295318842987287, guid: 7c0dfb1ea1174c94ca954d547bc299d9, type: 3}
+  modelloPrefab: {fileID: 4380930637931023658, guid: cc3a2617f00c4104480c5b9252dd6268, type: 3}
   mosseDisponibili:
   - {fileID: 11400000, guid: 3e9818dc570456e48a8d737816aff25e, type: 2}
   - {fileID: 11400000, guid: fca241e3762bef54692866e1ffb9bc4f, type: 2}
