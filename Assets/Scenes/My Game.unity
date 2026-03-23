@@ -2808,6 +2808,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 4440570863886156500, guid: 285e8979014fc4c419cccbcf2a342ff9, type: 3}
+      propertyPath: m_Avatar
+      value: 
+      objectReference: {fileID: 9000000, guid: 6d0ea301ff3eb3542a31313d4ce9efe2, type: 3}
+    - target: {fileID: 4440570863886156500, guid: 285e8979014fc4c419cccbcf2a342ff9, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: 39c995be89a7f3d458d647f954025ee2, type: 2}
     - target: {fileID: 6920888948112736788, guid: 285e8979014fc4c419cccbcf2a342ff9, type: 3}
       propertyPath: m_Name
       value: riprova
