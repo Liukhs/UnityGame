@@ -50,12 +50,12 @@ public class PlayerController : MonoBehaviour
         if (Input.GetKey(KeyCode.LeftShift))
         {
             playerRd.AddForce(moveDirection * runningSpeed);
-            playerAnim.SetFloat("Speed_f", 1f);
+            playerAnim.SetFloat("Speed_f", 1.1f);
         }
         else
         {
             playerRd.AddForce(moveDirection * speed);
-            playerAnim.SetFloat("Speed_f", 0.5f);
+            playerAnim.SetFloat("Speed_f", 0.6f);
         }
         
         if(moveDirection != Vector3.zero)

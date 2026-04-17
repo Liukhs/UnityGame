@@ -65,9 +65,13 @@ PrefabInstance:
       value: riprova
       objectReference: {fileID: 0}
     - target: {fileID: 5866666021909216657, guid: 73a096dbb05a36a43a944596ce51c479, type: 3}
+      propertyPath: m_Avatar
+      value: 
+      objectReference: {fileID: 9000000, guid: 6d0ea301ff3eb3542a31313d4ce9efe2, type: 3}
+    - target: {fileID: 5866666021909216657, guid: 73a096dbb05a36a43a944596ce51c479, type: 3}
       propertyPath: m_Controller
       value: 
-      objectReference: {fileID: 9100000, guid: 022cd8e9b1d113b41905bcb401343e62, type: 2}
+      objectReference: {fileID: 9100000, guid: 39c995be89a7f3d458d647f954025ee2, type: 2}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
